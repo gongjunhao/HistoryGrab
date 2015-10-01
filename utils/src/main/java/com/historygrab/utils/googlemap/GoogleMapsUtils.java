@@ -5,6 +5,6 @@ package com.historygrab.utils.googlemap;
  */
 public class GoogleMapsUtils {
     public static void main(String args[]) {
-
+        System.out.print("hello word");
     }
 }
