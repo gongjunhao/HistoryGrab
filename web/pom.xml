@@ -52,6 +52,8 @@
                             <value>UTF-8</value>
                         </systemProperty>
                     </systemProperties>
+                    <stopPort>9999</stopPort>
+                    <stopKey>foo</stopKey>
                 </configuration>
             </plugin>
         </plugins>
