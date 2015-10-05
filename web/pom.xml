@@ -40,7 +40,6 @@
               <port>8080</port>
             </connector>
           </connectors>
-          <reload>automatic</reload>
           <scanIntervalSeconds>3</scanIntervalSeconds>
           <systemProperties>
             <systemProperty>
